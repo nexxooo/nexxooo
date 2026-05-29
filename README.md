@@ -28,10 +28,9 @@
 
 ## 📊 Mes Statistiques
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nexxooo&show_icons=true&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&icon_color=507AA3&border_color=4B8B3B&hide_border=true" alt="Statistiques GitHub" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexxooo&layout=compact&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&border_color=4B8B3B&hide_border=true" alt="Top Langages" height="192px"/>
-</p>
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=nexxooo&show_icons=true&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&icon_color=507AA3&border_color=4B8B3B&hide_border=true)
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=nexxooo&layout=compact&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&border_color=4B8B3B&hide_border=true)
 
 ## ⚡ En dehors du code
 Quand je ne suis pas dans mon terminal, je suis souvent en train de lancer une partie de *League of Legends* ou *Age of Empires IV*, ou bien je cherche de nouveaux keycaps pour mon clavier mécanique TKL.
