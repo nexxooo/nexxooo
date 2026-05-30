@@ -30,8 +30,6 @@
 
 ## 📊 Mes Statistiques
 
-## 📊 Mes Statistiques
-
 ![Statistiques GitHub](https://readme-stat-black.vercel.app/api?username=nexxooo&show_icons=true&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&icon_color=507AA3&border_color=4B8B3B&hide_border=true)
 
 ![Top Langages](https://readme-stat-black.vercel.app/api/top-langs/?username=nexxooo&layout=compact&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&border_color=4B8B3B&hide_border=true)
