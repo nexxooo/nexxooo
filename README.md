@@ -74,9 +74,10 @@ A computer science student passionate about software development, I love designi
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nexxooo&show_icons=true&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&icon_color=507AA3&border_color=4B8B3B&hide_border=true)
+![Statistiques GitHub](https://readme-stat-black.vercel.app/api?username=nexxooo&show_icons=true&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&icon_color=507AA3&border_color=4B8B3B&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nexxooo&layout=compact&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&border_color=4B8B3B&hide_border=true)
+![Top Langages](https://readme-stat-black.vercel.app/api/top-langs/?username=nexxooo&layout=compact&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&border_color=4B8B3B&hide_border=true)
+
 
 ## ⚡ Outside of coding
 I'm often launching a game of *League of Legends* or *Age of Empires IV*.
