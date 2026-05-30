@@ -32,7 +32,9 @@
 
 ![Statistiques GitHub](https://readme-stat-black.vercel.app/api?username=nexxooo&show_icons=true&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&icon_color=507AA3&border_color=4B8B3B&hide_border=true)
 
-![Top Langages](https://readme-stat-black.vercel.app/api/top-langs/?username=nexxooo&layout=compact&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&border_color=4B8B3B&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nexxooo&theme=gruvbox&background=F4F0E6&ring=4B8B3B&fire=507AA3&currStreakNum=7D6C58&sideNums=7D6C58&currStreakLabel=4B8B3B&sideLabels=4B8B3B&dates=7D6C58&hide_border=true" alt="Série de commits GitHub" />
+</p>
 
 ## ⚡ En dehors du code
 Je suis souvent en train de lancer une partie de *League of Legends* ou *Age of Empires IV*.
