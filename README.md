@@ -1,4 +1,7 @@
 # 👋 Salut, je suis Fabio (Hi, I'm Fabio)
+<p align="center">
+  <img src="bannier.gif" alt="Bannière Fabio" width="100%">
+</p>
 
 *🇫🇷 Version française (English version below)*
 
