@@ -1,7 +1,15 @@
-
 <p align="center">
   <img src="bannier.gif" alt="Bannière Fabio" width="100%">
+  <br><br>
+  <a href="mailto:fabiolongofabio@proton.me">
+    <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" alt="Me contacter par mail">
+  </a>
+  <a href="https://discordapp.com/users/498520590924120074">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" alt="Mon Discord">
+  </a>
 </p>
+
+---
 
 *🇫🇷 Version française (English version below)*
 
@@ -13,9 +21,7 @@
 * [x] **Développement d'un simulateur de réseau en C** implémentant le protocole Spanning Tree.
 
 ## 🛠️ Ma Stack Technique
-
 <p align="left">
-  <!-- Badges avec des teintes rappelant la nature (vert, bleu doux, terre) -->
   <img src="https://img.shields.io/badge/C%23-%234B8B3B.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Java-%23507AA3.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-%237D6C58.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -25,19 +31,10 @@
 </p>
 
 ## ⚙️ Mon Environnement
-
 <p align="left">
   <img src="https://img.shields.io/badge/Fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
   <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
   <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-</p>
-
-## 📊 Mes Statistiques
-
-![Statistiques GitHub](https://readme-stat-black.vercel.app/api?username=nexxooo&show_icons=true&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&icon_color=507AA3&border_color=4B8B3B&hide_border=true)
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=nexxooo&theme=gruvbox&background=F4F0E6&ring=4B8B3B&fire=507AA3&currStreakNum=7D6C58&sideNums=7D6C58&currStreakLabel=4B8B3B&sideLabels=4B8B3B&dates=7D6C58&hide_border=true&v=2" alt="Série de commits GitHub" />
 </p>
 
 ## ⚡ En dehors du code
@@ -53,13 +50,12 @@ Je suis souvent en train de lancer une partie de *League of Legends* ou *Age of 
 
 A computer science student passionate about software development, I love designing tools and applications.
 
-## 🚀 My projects(Study Projects)
+## 🚀 Academic Projects
 * [x] **C# (WinForms) application development** based on the Stargate universe, integrating an SQLite database management system.
 * [x] **Java game development** inspired by the mechanics of the game *Inscryption*.
 * [x] **C network simulator development** implementing the Spanning Tree protocol.
 
 ## 🛠️ My Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-%234B8B3B.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Java-%23507AA3.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -70,21 +66,24 @@ A computer science student passionate about software development, I love designi
 </p>
 
 ## ⚙️ My Environment
-
 <p align="left">
   <img src="https://img.shields.io/badge/Fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
   <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
   <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 </p>
 
+## ⚡ Outside of Coding
+I'm often launching a game of *League of Legends* or *Age of Empires IV*.
+
+<br>
+
+---
+
+<!-- Section Stats globale tout en bas -->
 ## 📊 My GitHub Stats
 
-![Statistiques GitHub](https://readme-stat-black.vercel.app/api?username=nexxooo&show_icons=true&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&icon_color=507AA3&border_color=4B8B3B&hide_border=true&cache=false)
-
 <p align="left">
+  <img src="https://readme-stat-black.vercel.app/api?username=nexxooo&show_icons=true&bg_color=F4F0E6&title_color=4B8B3B&text_color=7D6C58&icon_color=507AA3&border_color=4B8B3B&hide_border=true" alt="Statistiques GitHub" />
+  <br><br>
   <img src="https://streak-stats.demolab.com?user=nexxooo&theme=gruvbox&background=F4F0E6&ring=4B8B3B&fire=507AA3&currStreakNum=7D6C58&sideNums=7D6C58&currStreakLabel=4B8B3B&sideLabels=4B8B3B&dates=7D6C58&hide_border=true&v=2" alt="Série de commits GitHub" />
 </p>
-
-
-## ⚡ Outside of coding
-I'm often launching a game of *League of Legends* or *Age of Empires IV*.
