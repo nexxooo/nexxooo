@@ -7,10 +7,10 @@
 
 Étudiant en informatique passionné par le développement logiciel, j'aime concevoir des outils et des applications.
 
-## 🚀 Ce que je fais en ce moment (Projets d'études)
-* **Développement d'une application C# (WinForms)** sur le thème de Stargate, intégrant une gestion de base de données SQLite.
-* **Développement d'un jeu en Java** reprenant les mécaniques du jeu *Inscryption*.
-* **Développement d'un simulateur de réseau en C** implémentant le protocole Spanning Tree.
+## 🚀 Mes projets (Projets d'études)
+* [x] **Développement d'une application C# (WinForms)** sur le thème de Stargate, intégrant une gestion de base de données SQLite.
+* [x] **Développement d'un jeu en Java** reprenant les mécaniques du jeu *Inscryption*.
+* [x] **Développement d'un simulateur de réseau en C** implémentant le protocole Spanning Tree.
 
 ## 🛠️ Ma Stack Technique
 
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Python-%237D6C58.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-%234B8B3B.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/SQLite-%23507AA3.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/.Net-%237D6C58.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dotnet">
 </p>
 
 ## ⚙️ Mon Environnement
@@ -52,10 +53,10 @@ Je suis souvent en train de lancer une partie de *League of Legends* ou *Age of 
 
 A computer science student passionate about software development, I love designing tools and applications.
 
-## 🚀 What I'm currently working on (Study Projects)
-* **C# (WinForms) application development** based on the Stargate universe, integrating an SQLite database management system.
-* **Java game development** inspired by the mechanics of the game *Inscryption*.
-* **C network simulator development** implementing the Spanning Tree protocol.
+## 🚀 My projects(Study Projects)
+* [x] **C# (WinForms) application development** based on the Stargate universe, integrating an SQLite database management system.
+* [x] **Java game development** inspired by the mechanics of the game *Inscryption*.
+* [x] **C network simulator development** implementing the Spanning Tree protocol.
 
 ## 🛠️ My Tech Stack
 
@@ -65,6 +66,7 @@ A computer science student passionate about software development, I love designi
   <img src="https://img.shields.io/badge/Python-%237D6C58.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-%234B8B3B.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/SQLite-%23507AA3.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/.Net-%237D6C58.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dotnet">
 </p>
 
 ## ⚙️ My Environment
